@@ -11,8 +11,8 @@
 - if number is close say something like whoops that was close please try again
 - Store players data and allocate a certain amount for them to bet with
 - give player a profile
-        - balance
-        - id
+      - balance
+      - id
 
 
 # Things i will like to use include
