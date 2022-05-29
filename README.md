@@ -8,9 +8,9 @@
 - if number is 21 player wins
 
 # things i will keep working in other to improve my skill
-==> if number is close say something like whoops that was close please try again
-==> Store players data and allocate a certain amount for them to bet with
-==> give your player a profile
+- if number is close say something like whoops that was close please try again
+- Store players data and allocate a certain amount for them to bet with
+- give player a profile
         - balance
         - id
 
